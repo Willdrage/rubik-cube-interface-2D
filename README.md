@@ -32,8 +32,10 @@ pip install numpy kociemba
 
 ## 🚀 How to Run
 
-Just run the main file:
+you can download the project as a ZIP file:
+https://github.com/Willdrage/rubik-cube-interface-2D/archive/refs/heads/main.zip
 
+Just run the main file:
 ```bash
 python cube_ui.py
 ```
